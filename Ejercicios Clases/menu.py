@@ -17,5 +17,7 @@ try:
 
 except ModuleNotFoundError:
     print(f"El archivo {num_ejercicio} no existe")
+except AttributeError:
+    print(f"El archivo existe, pero no tiene la función 'ejercicio{num_ejercicio}'")
 except ValueError:
     print(f"No se encontró la función del ejercicio {num_ejercicio}")
