@@ -44,9 +44,12 @@ def ejercicio31():
     playlist.agregar_cancion(cancion3)
 
     playlist.mostrar_playlist()
+    print()
 
     playlist.aleatorio()
     playlist.mostrar_playlist()
+    print()
 
     playlist.eliminar_cancion(cancion2)
     playlist.mostrar_playlist()
+    print()
