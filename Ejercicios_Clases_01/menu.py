@@ -11,7 +11,7 @@ while True:
     
     if num_ejercicio.lower() == "salir":
         print("\n=============================================")
-        print("          Programa terminado. ¡Adios!        ")
+        print("          Programa terminado. Adios!        ")
         print("=============================================\n")
         break
 
