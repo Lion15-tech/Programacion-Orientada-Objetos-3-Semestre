@@ -1,3 +1,6 @@
+ctrl + shift + P
+Preference: Open User Settings (JSON)
+
 {
     "workbench.colorTheme": "Tokyo Night Storm",
     "indentRainbow.indicatorStyle": "light",
