@@ -1,5 +1,5 @@
 # Diccionario para guardar el nombre de los alumnos y su calificación final
-resultados_alumnos = {}
+alumnos_resultados = {}
 
 # Lista con las preguntas de la evaluación
 # Cada elemento tiene la pregunta, las opciones de respuesta y cuál es la correcta
