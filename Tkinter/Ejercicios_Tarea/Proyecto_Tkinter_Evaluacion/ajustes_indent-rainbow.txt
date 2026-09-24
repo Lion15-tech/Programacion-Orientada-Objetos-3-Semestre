@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.lightIndicatorStyleLineWidth": 2,
+    "indentRainbow.colors": [
+        "rgba(122, 162, 247, 0.6)",
+        "rgba(187, 154, 247, 0.6)",
+        "rgba(125, 207, 182, 0.6)",
+        "rgba(255, 0, 127, 0.6)"
+        ]
+}
